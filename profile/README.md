@@ -1,4 +1,5 @@
 ## Hi there 👋
+Welcome to the page of the Utah Tech Gamemakers! We are a club dedicated to the mission of connecting Utah Tech University Students who are interested in developing games!
 
 <!--
 
